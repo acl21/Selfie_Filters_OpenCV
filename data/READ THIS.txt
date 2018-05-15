@@ -1,0 +1,6 @@
+I was having trouble pushing the dataset to the repo. 
+
+So I urge you to download the dataset from - https://www.kaggle.com/c/facial-keypoints-detection/data
+and extract the zip to this folder.
+
+Cheers! 
