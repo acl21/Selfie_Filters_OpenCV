@@ -16,7 +16,7 @@ Facial keypoints (also called facial landmarks) are the small blue-green dots sh
 I used [this dataset from Kaggle](https://www.kaggle.com/c/facial-keypoints-detection/data) to train a decent CNN model to predict the facial keypoints given a face and used the keypoints to place the desired filters on the face (as shown below).
 
 ## Working Example
-!(demo)[<img src="https://github.com/akshaychandra111/Selfie_Filters_OpenCV/blob/master/demo.gif">]
+<img src="https://github.com/akshaychandra111/Selfie_Filters_OpenCV/blob/master/demo.gif">
 
 ## Execution
 Order of Execution is as follows:
