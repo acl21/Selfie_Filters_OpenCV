@@ -5,7 +5,7 @@ This python application can put various sunglasses on a detected face (I am call
 The code is in Python (version 3.6 or higher). You also need to install OpenCV and Keras libraries.
 
 ## Description
-OpenCV is often used in practice with other machine learning and deep learning libraries to produce interesting results. Employing **Convolutional Neural Networks (CNN)** in (Keras)[https://keras.io/] along with OpenCV - I built a couple of selfie filters (very boring ones).
+OpenCV is often used in practice with other machine learning and deep learning libraries to produce interesting results. Employing **Convolutional Neural Networks (CNN)** in [Keras](https://keras.io/) along with OpenCV - I built a couple of selfie filters (very boring ones).
 
 Facial keypoints can be used in a variety of machine learning applications from face and emotion recognition to commercial applications like the image filters popularized by Snapchat.
 
