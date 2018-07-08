@@ -1,10 +1,10 @@
 # Selfie Filters Using OpenCV
-This python application can put various sunglasses on a detected face (I am calling them 'Selfie Filters') by finding the Facial Keypoints (15 unique points). These keypoints mark important areas of the face - the eyes, corners of the mouth, the nose, etc.
+This deep learning application in python can put various sunglasses on a detected face (I am calling them 'Selfie Filters') by finding the Facial Keypoints (15 unique points). These keypoints mark important areas of the face - the eyes, corners of the mouth, the nose, etc.
 
-## Code Requirements
-The code is in Python (version 3.6 or higher). You also need to install OpenCV and Keras libraries.
+## Working Example
+<img src="https://github.com/akshaychandra111/Selfie_Filters_OpenCV/blob/master/demo.gif">
 
-## Description
+## Data Description
 OpenCV is often used in practice with other machine learning and deep learning libraries to produce interesting results. Employing **Convolutional Neural Networks (CNN)** in [Keras](https://keras.io/) along with OpenCV - I built a couple of selfie filters (very boring ones).
 
 Facial keypoints can be used in a variety of machine learning applications from face and emotion recognition to commercial applications like the image filters popularized by Snapchat.
@@ -15,8 +15,8 @@ Facial keypoints (also called facial landmarks) are the small blue-green dots sh
 
 I used [this dataset from Kaggle](https://www.kaggle.com/c/facial-keypoints-detection/data) to train a decent CNN model to predict the facial keypoints given a face and used the keypoints to place the desired filters on the face (as shown below).
 
-## Working Example
-<img src="https://github.com/akshaychandra111/Selfie_Filters_OpenCV/blob/master/demo.gif">
+## Code Requirements
+The code is in Python (version 3.6 or higher). You also need to install OpenCV and Keras libraries.
 
 ## Execution
 Order of Execution is as follows:
