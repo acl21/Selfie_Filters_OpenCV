@@ -2,8 +2,9 @@
 This deep learning application in python can put various sunglasses on a detected face (I am calling them 'Selfie Filters') by finding the Facial Keypoints (15 unique points). These keypoints mark important areas of the face - the eyes, corners of the mouth, the nose, etc.
 
 ## Working Example
-<img src="https://github.com/akshaychandra21/Selfie_Filters_OpenCV/blob/master/demo.gif">
-
+<div align="center">
+<img src="https://github.com/akshaychandra21/Selfie_Filters_OpenCV/blob/master/demo.gif" >
+</div>
 ## Data Description
 OpenCV is often used in practice with other machine learning and deep learning libraries to produce interesting results. Employing **Convolutional Neural Networks (CNN)** in [Keras](https://keras.io/) along with OpenCV - I built a couple of selfie filters (very boring ones).
 
