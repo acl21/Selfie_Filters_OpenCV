@@ -1,6 +1,6 @@
-# Selfie Filters Using Facial Landmarks [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/akshaychandra21/Selfie_Filters_OpenCV/blob/master/LICENSE.txt)
+### [UPDATE]: I will not be responding to issues or emails related to this repo anymore as I am currently occupied with other research commitments. Also, the libraries used are pretty old and outdated. Thank you.
 
-[UPDATE]: I will not be looking into issues or emails related to this repo anymore as I am currently very busy with other research commitments. Thank you.
+# Selfie Filters Using Facial Landmarks [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/akshaychandra21/Selfie_Filters_OpenCV/blob/master/LICENSE.txt)
 
 This deep learning application in python can put various sunglasses on a detected face (I am calling them 'Selfie Filters') by finding the Facial Keypoints (15 unique points). These keypoints mark important areas of the face - the eyes, corners of the mouth, the nose, etc.
 
